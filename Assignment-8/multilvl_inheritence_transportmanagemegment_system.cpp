@@ -36,7 +36,7 @@ int main() {
     Manager m1;
 
     m1.org_name = "apple";
-    m1.gst_id = 1234;
+    m1.gst_id = 2345;
     m1.name = "stive job";
     m1.id = 6789;
     m1.post = "CEO";
